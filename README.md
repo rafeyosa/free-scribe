@@ -1,12 +1,16 @@
-# React + Vite
+# FreeScribe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FreeScribe is a web application that leverages machine learning for real-time transcription and translation. Built using React.js, Tailwind CSS, and Transformers.js, this app enables users to transcribe audio into text and translate it into multiple languages with high accuracy.
 
-Currently, two official plugins are available:
+## Learning objectives
+- React.js Basics (Components, Hooks, Props)
+- Transformers.js for Machine Learning-based transcription and translation
+- Layouting Responsive Web using Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Link resources
+- [FontAwesome CDN](https://cdnjs.com/libraries/font-awesome)
+- [FontAwesome Icons](https://www.fontawesome.com)
+- [Google Fonts](https://fonts.google.com/)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Vite](https://vite.dev/guide)
+- [@xenova/transformers](https://www.npmjs.com/package/@xenova/transformers)
